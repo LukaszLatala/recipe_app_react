@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(238, 221, 221, 0.753);
+    text-align: center;
+}
+
+ul{
+    color:blue;
+}
+
+input {
+    border: 1px solid rgba(27, 1, 1, 0.952);
+    background-color: rgba(252, 252, 252, 0);
+    width: 400px;
+    border-radius: 3px;
+    font-family: "Source Sans Pro", sans-serif;
+    padding: 10px 15px;
+    margin: 0 auto 10px auto;
+    display: block;
+    text-align: center;
+    font-size: 28px;
+    color: black;
+    font-weight: 300;
+    margin: 2% auto;
+    padding: 10px 0;
+}
+
+button {
+    color: tomato;
+    background-color: white;
+    padding: 5px 10px;
+ border: 2px solid tomato;
+    border-radius: 3px;
+    
+    font-size: 12px;
+  
+  }
+
+  select{
+      color: brown;
+      font-size: 12px;
+      position: relative;
+      font-family: Arial;
+      padding: 5px 10px;
+      margin: 8px 8px;
+      border: 2px solid tomato;
+      border-radius: 3px;
+  }
